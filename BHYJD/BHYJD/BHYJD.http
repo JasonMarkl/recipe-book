@@ -1,0 +1,6 @@
+@BHYJD_HostAddress = http://localhost:5113
+
+GET {{BHYJD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
